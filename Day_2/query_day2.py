@@ -46,12 +46,12 @@ try:
     l=[]
     for i in range(len(list_data)):
         l.extend(re.split('a|e|i|o|u|A|E|I|O|U',list_data[i]))
-    for i in range(len(list_data)):
-        if len(list_data[i]) >= 3:
-            list_data[i].replace(list_data[i][2],list_data[i][2].upper(),1)
+    for i in range(len(l)):
+        if len(l[i]) >= 3:
+            l[i].replace(l[i][2],l[i][2].upper(),1)
         if (i+1)%5==0:
-            list_data[i] = list_data[i].upper()
-        list_data[i] = list_data[i].replace('\n',';')
+            l[i] = l[i].upper()
+        l[i] = l[i].replace('\n',';')
     l = " ".join(l).split()
     uniq_flname = str(uuid.uuid4())
     uniq_flname += '.txt'
