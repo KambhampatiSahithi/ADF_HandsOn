@@ -1,0 +1,5 @@
+sample text in this text file to deal with python reading file program.
+we need to read words and store unique words in list
+sort list based on word length
+after that append lengths to it
+

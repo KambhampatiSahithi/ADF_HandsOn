@@ -1,0 +1,7 @@
+name = input()
+age = int(input())
+gen = input()
+sal = int(input())
+state = input()
+city = input()
+print("Name: {}\nAge: {}\nGender: {}\nSalary: {}\nState: {}\nCity: {}".format(name,age,gen,sal,state,city))
