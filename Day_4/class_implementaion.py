@@ -10,8 +10,6 @@ class FileReadWrite:
 
     def __init__(self, filename):
         self.filename = filename
-        self.filehd = None
-        self.filedata = ""
         logging.info("Initialised values")
 
     def read_data(self):
