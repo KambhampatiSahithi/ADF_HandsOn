@@ -1,0 +1,509 @@
+2021-09-08 10:43:31 INFO - Started execution
+2021-09-08 10:43:31 INFO - Initialised values
+2021-09-08 10:43:31 INFO - Read data from input data file
+2021-09-08 10:43:31 INFO - getting words with prefix to 
+2021-09-08 10:43:31 INFO - getting words with postfix ing
+2021-09-08 10:43:31 INFO - getting Most repeated word
+2021-09-08 10:43:31 INFO - Getting palidromic words
+2021-09-08 10:43:31 INFO - writing data to uniquefile after required operation
+2021-09-08 10:47:40 INFO - Started execution
+2021-09-08 10:47:40 INFO - Initialised values
+2021-09-08 10:47:40 INFO - Read data from input data file
+2021-09-08 10:47:40 INFO - getting words with prefix to 
+2021-09-08 10:47:40 INFO - getting words with postfix ing
+2021-09-08 10:47:40 INFO - getting Most repeated word
+2021-09-08 10:47:40 INFO - Getting palidromic words
+2021-09-08 10:47:40 INFO - writing data to uniquefile after required operation
+2021-09-08 11:01:58 INFO - Started execution
+2021-09-08 11:01:58 INFO - Initialised values
+2021-09-08 11:01:58 INFO - Read data from input data file
+2021-09-08 11:01:58 INFO - getting words with prefix to 
+2021-09-08 11:01:58 INFO - getting words with postfix ing
+2021-09-08 11:01:58 INFO - getting Most repeated word
+2021-09-08 11:01:58 INFO - Getting palidromic words
+2021-09-08 11:01:58 INFO - writing data to uniquefile after required operation
+2021-09-08 11:04:54 INFO - Started execution
+2021-09-08 11:04:54 INFO - Initialised values
+2021-09-08 11:04:54 INFO - Read data from input data file
+2021-09-08 11:04:54 INFO - getting words with prefix to 
+2021-09-08 11:04:54 INFO - getting words with postfix ing
+2021-09-08 11:04:54 INFO - getting Most repeated word
+2021-09-08 11:04:54 INFO - Getting palidromic words
+2021-09-08 11:04:54 INFO - writing data to uniquefile after required operation
+2021-09-08 11:05:11 INFO - Started execution
+2021-09-08 11:05:11 INFO - Initialised values
+2021-09-08 11:05:11 INFO - Read data from input data file
+2021-09-08 11:05:11 INFO - getting words with prefix to 
+2021-09-08 11:05:11 INFO - getting words with postfix ing
+2021-09-08 11:05:11 INFO - getting Most repeated word
+2021-09-08 11:05:11 INFO - Getting palidromic words
+2021-09-08 11:05:11 INFO - writing data to uniquefile after required operation
+2021-09-08 11:08:54 INFO - Started execution
+2021-09-08 11:08:54 INFO - Initialised values
+2021-09-08 11:08:54 INFO - Read data from input data file
+2021-09-08 11:08:54 INFO - getting words with prefix to 
+2021-09-08 11:08:54 INFO - getting words with postfix ing
+2021-09-08 11:08:54 INFO - getting Most repeated word
+2021-09-08 11:08:54 INFO - Getting palidromic words
+2021-09-08 11:08:54 INFO - writing data to uniquefile after required operation
+2021-09-08 11:32:29 INFO - Started execution
+2021-09-08 11:32:29 INFO - Initialised values
+2021-09-08 11:32:29 INFO - Read data from input data file
+2021-09-08 11:32:29 INFO - getting words with prefix to 
+2021-09-08 11:32:29 INFO - getting words with postfix ing
+2021-09-08 11:32:29 INFO - getting Most repeated word
+2021-09-08 11:32:29 INFO - Getting palidromic words
+2021-09-08 11:32:29 INFO - writing data to uniquefile after required operation
+2021-09-08 11:32:56 INFO - Started execution
+2021-09-08 11:32:56 INFO - Initialised values
+2021-09-08 11:32:56 INFO - Read data from input data file
+2021-09-08 11:32:56 INFO - getting words with prefix to 
+2021-09-08 11:32:56 INFO - getting words with postfix ing
+2021-09-08 11:32:56 INFO - getting Most repeated word
+2021-09-08 11:32:56 INFO - Getting palidromic words
+2021-09-08 11:32:56 INFO - writing data to uniquefile after required operation
+2021-09-08 11:33:38 INFO - Started execution
+2021-09-08 11:33:38 INFO - Initialised values
+2021-09-08 11:33:38 INFO - Read data from input data file
+2021-09-08 11:33:38 INFO - getting words with prefix to 
+2021-09-08 11:33:38 INFO - getting words with postfix ing
+2021-09-08 11:33:38 INFO - getting Most repeated word
+2021-09-08 11:33:38 INFO - Getting palidromic words
+2021-09-08 11:33:38 INFO - writing data to uniquefile after required operation
+2021-09-08 11:36:02 INFO - Started execution
+2021-09-08 11:36:02 INFO - Initialised values
+2021-09-08 11:36:02 INFO - Read data from input data file
+2021-09-08 11:36:02 INFO - getting words with prefix to 
+2021-09-08 11:36:02 INFO - getting words with postfix ing
+2021-09-08 11:36:02 INFO - getting Most repeated word
+2021-09-08 11:36:02 INFO - Getting palidromic words
+2021-09-08 11:36:02 INFO - writing data to uniquefile after required operation
+2021-09-08 11:38:14 INFO - Started execution
+2021-09-08 11:38:14 INFO - Initialised values
+2021-09-08 11:38:14 INFO - Read data from input data file
+2021-09-08 11:38:14 INFO - getting words with prefix to 
+2021-09-08 11:38:14 INFO - getting words with postfix ing
+2021-09-08 11:38:14 INFO - getting Most repeated word
+2021-09-08 11:38:14 INFO - Getting palidromic words
+2021-09-08 11:38:14 INFO - writing data to uniquefile after required operation
+2021-09-08 11:42:54 INFO - Started execution
+2021-09-08 11:42:54 INFO - Initialised values
+2021-09-08 11:42:54 INFO - Read data from input data file
+2021-09-08 11:42:54 INFO - getting words with prefix to 
+2021-09-08 11:42:54 INFO - getting words with postfix ing
+2021-09-08 11:42:54 INFO - getting Most repeated word
+2021-09-08 11:42:54 INFO - Getting palidromic words
+2021-09-08 11:42:54 INFO - writing data to uniquefile after required operation
+2021-09-08 11:43:54 INFO - Started execution
+2021-09-08 11:43:54 INFO - Initialised values
+2021-09-08 11:43:54 INFO - Read data from input data file
+2021-09-08 11:43:54 INFO - getting words with prefix to 
+2021-09-08 11:43:54 INFO - getting words with postfix ing
+2021-09-08 11:43:54 INFO - getting Most repeated word
+2021-09-08 11:43:54 INFO - Getting palidromic words
+2021-09-08 11:43:54 INFO - writing data to uniquefile after required operation
+2021-09-08 11:48:34 INFO - Started execution
+2021-09-08 11:48:34 INFO - Initialised values
+2021-09-08 11:48:34 INFO - Read data from input data file
+2021-09-08 11:48:34 INFO - getting words with prefix to 
+2021-09-08 11:48:34 INFO - getting words with postfix ing
+2021-09-08 11:48:34 INFO - getting Most repeated word
+2021-09-08 11:48:34 INFO - Getting palidromic words
+2021-09-08 11:48:34 INFO - writing data to uniquefile after required operation
+2021-09-08 11:50:56 INFO - Started execution
+2021-09-08 11:50:56 INFO - Initialised values
+2021-09-08 11:50:56 INFO - Read data from input data file
+2021-09-08 11:50:56 INFO - getting words with prefix to 
+2021-09-08 11:50:56 INFO - getting words with postfix ing
+2021-09-08 11:50:56 INFO - getting Most repeated word
+2021-09-08 11:50:56 INFO - Getting palidromic words
+2021-09-08 11:50:56 INFO - writing data to uniquefile after required operation
+2021-09-08 11:53:35 INFO - Started execution
+2021-09-08 11:53:35 INFO - Initialised values
+2021-09-08 11:53:35 INFO - Read data from input data file
+2021-09-08 11:53:35 INFO - getting words with prefix to 
+2021-09-08 11:53:35 INFO - getting words with postfix ing
+2021-09-08 11:53:35 INFO - getting Most repeated word
+2021-09-08 11:53:35 INFO - Getting palidromic words
+2021-09-08 11:53:35 INFO - writing data to uniquefile after required operation
+2021-09-08 11:55:27 INFO - Started execution
+2021-09-08 11:55:27 INFO - Initialised values
+2021-09-08 11:55:27 INFO - Read data from input data file
+2021-09-08 11:55:27 INFO - getting words with prefix to 
+2021-09-08 11:55:27 INFO - getting words with postfix ing
+2021-09-08 11:55:27 INFO - getting Most repeated word
+2021-09-08 11:55:27 INFO - Getting palidromic words
+2021-09-08 11:55:27 INFO - writing data to uniquefile after required operation
+2021-09-08 11:57:00 INFO - Started execution
+2021-09-08 11:57:00 INFO - Initialised values
+2021-09-08 11:57:00 INFO - Read data from input data file
+2021-09-08 11:57:00 INFO - getting words with prefix to 
+2021-09-08 11:57:00 INFO - getting words with postfix ing
+2021-09-08 11:57:00 INFO - getting Most repeated word
+2021-09-08 11:57:00 INFO - Getting palidromic words
+2021-09-08 11:57:00 INFO - writing data to uniquefile after required operation
+2021-09-08 11:59:12 INFO - Started execution
+2021-09-08 11:59:12 INFO - Initialised values
+2021-09-08 11:59:12 INFO - Read data from input data file
+2021-09-08 11:59:12 INFO - getting words with prefix to 
+2021-09-08 11:59:12 INFO - getting words with postfix ing
+2021-09-08 11:59:12 INFO - getting Most repeated word
+2021-09-08 11:59:12 INFO - Getting palidromic words
+2021-09-08 11:59:12 INFO - writing data to uniquefile after required operation
+2021-09-08 12:00:15 INFO - Started execution
+2021-09-08 12:00:15 INFO - Initialised values
+2021-09-08 12:00:15 INFO - Read data from input data file
+2021-09-08 12:00:15 INFO - getting words with prefix to 
+2021-09-08 12:00:15 INFO - getting words with postfix ing
+2021-09-08 12:00:15 INFO - getting Most repeated word
+2021-09-08 12:00:15 INFO - Getting palidromic words
+2021-09-08 12:00:15 INFO - writing data to uniquefile after required operation
+2021-09-08 12:02:20 INFO - Started execution
+2021-09-08 12:02:20 INFO - Initialised values
+2021-09-08 12:02:20 INFO - Read data from input data file
+2021-09-08 12:02:20 INFO - getting words with prefix to 
+2021-09-08 12:02:20 INFO - getting words with postfix ing
+2021-09-08 12:02:20 INFO - getting Most repeated word
+2021-09-08 12:02:20 INFO - Getting palidromic words
+2021-09-08 12:02:20 INFO - writing data to uniquefile after required operation
+2021-09-08 12:04:17 INFO - Started execution
+2021-09-08 12:04:17 INFO - Initialised values
+2021-09-08 12:04:17 INFO - Read data from input data file
+2021-09-08 12:04:17 INFO - getting words with prefix to 
+2021-09-08 12:04:17 INFO - getting words with postfix ing
+2021-09-08 12:04:17 INFO - getting Most repeated word
+2021-09-08 12:04:17 INFO - Getting palidromic words
+2021-09-08 12:04:17 INFO - writing data to uniquefile after required operation
+2021-09-08 12:13:47 INFO - Started execution
+2021-09-08 12:13:47 INFO - Initialised values
+2021-09-08 12:13:47 INFO - Error while getting data from inputfile
+2021-09-08 12:15:30 INFO - Started execution
+2021-09-08 12:15:30 INFO - Initialised values
+2021-09-08 12:15:30 INFO - Error while getting data from inputfile
+2021-09-08 12:16:29 INFO - Started execution
+2021-09-08 12:16:29 INFO - Initialised values
+2021-09-08 12:17:09 INFO - Started execution
+2021-09-08 12:17:09 INFO - Initialised values
+2021-09-08 12:17:09 INFO - Read data from input data file
+2021-09-08 12:17:09 INFO - Read data from input data file
+2021-09-08 12:17:09 INFO - getting words with prefix to 
+2021-09-08 12:17:09 INFO - getting words with postfix ing
+2021-09-08 12:17:09 INFO - getting Most repeated word
+2021-09-08 12:17:09 INFO - Getting palidromic words
+2021-09-08 12:17:09 INFO - writing data to uniquefile after required operation
+2021-09-08 12:17:33 INFO - Started execution
+2021-09-08 12:17:33 INFO - Initialised values
+2021-09-08 12:17:33 INFO - Read data from input data file
+2021-09-08 12:17:33 INFO - Read data from input data file
+2021-09-08 12:17:33 INFO - getting words with prefix to 
+2021-09-08 12:17:33 INFO - getting words with postfix ing
+2021-09-08 12:17:33 INFO - getting Most repeated word
+2021-09-08 12:17:33 INFO - Getting palidromic words
+2021-09-08 12:17:33 INFO - writing data to uniquefile after required operation
+2021-09-08 12:18:16 INFO - Started execution
+2021-09-08 12:18:16 INFO - Initialised values
+2021-09-08 12:18:16 INFO - Error while getting data from inputfile
+2021-09-08 12:18:29 INFO - Started execution
+2021-09-08 12:18:29 INFO - Initialised values
+2021-09-08 12:18:29 INFO - Error while getting data from inputfile
+2021-09-08 12:19:07 INFO - Started execution
+2021-09-08 12:19:07 INFO - Initialised values
+2021-09-08 12:19:07 INFO - getting words with prefix to 
+2021-09-08 12:19:07 INFO - getting words with postfix ing
+2021-09-08 12:19:07 INFO - getting Most repeated word
+2021-09-08 12:19:07 INFO - Getting palidromic words
+2021-09-08 12:19:07 INFO - writing data to uniquefile after required operation
+2021-09-08 12:24:05 INFO - Started execution
+2021-09-08 12:24:05 INFO - Initialised values
+2021-09-08 12:24:05 INFO - Trying to open and read file
+2021-09-08 12:24:05 INFO - Trying to open and read file
+2021-09-08 12:24:05 INFO - getting words with prefix to 
+2021-09-08 12:24:05 INFO - getting words with postfix ing
+2021-09-08 12:24:05 INFO - getting Most repeated word
+2021-09-08 12:24:05 INFO - Getting palidromic words
+2021-09-08 12:24:05 INFO - writing data to uniquefile after required operation
+2021-09-08 12:24:38 INFO - Started execution
+2021-09-08 12:24:38 INFO - Initialised values
+2021-09-08 12:24:38 INFO - Trying to open and read file
+2021-09-08 12:24:38 INFO - Trying to open and read file
+2021-09-08 12:24:38 INFO - getting words with prefix to 
+2021-09-08 12:24:38 INFO - getting words with postfix ing
+2021-09-08 12:24:38 INFO - getting Most repeated word
+2021-09-08 12:24:38 INFO - Getting palidromic words
+2021-09-08 12:24:38 INFO - writing data to uniquefile after required operation
+2021-09-08 12:28:30 INFO - Started execution
+2021-09-08 12:28:30 INFO - Initialised values
+2021-09-08 12:28:30 INFO - Trying to open and read file
+2021-09-08 12:28:30 INFO - Trying to open and read file
+2021-09-08 12:28:30 INFO - getting words with prefix to 
+2021-09-08 12:28:30 INFO - getting words with postfix ing
+2021-09-08 12:28:30 INFO - getting Most repeated word
+2021-09-08 12:28:30 INFO - Getting palidromic words
+2021-09-08 12:28:30 INFO - writing data to uniquefile after required operation
+2021-09-08 12:32:47 INFO - Started execution
+2021-09-08 12:32:47 INFO - Initialised values
+2021-09-08 12:32:47 INFO - Trying to open and read file
+2021-09-08 12:32:47 INFO - Trying to open and read file
+2021-09-08 12:32:47 INFO - getting words with prefix to 
+2021-09-08 12:32:47 INFO - getting words with postfix ing
+2021-09-08 12:32:47 INFO - getting Most repeated word
+2021-09-08 12:32:47 INFO - Getting palidromic words
+2021-09-08 12:32:47 INFO - writing data to uniquefile after required operation
+2021-09-08 12:40:02 INFO - Started execution
+2021-09-08 12:40:02 INFO - Initialised values
+2021-09-08 12:40:02 INFO - Trying to open and read file
+2021-09-08 12:40:02 INFO - Trying to open and read file
+2021-09-08 12:40:02 INFO - getting words with prefix to 
+2021-09-08 12:40:02 INFO - getting words with postfix ing
+2021-09-08 12:40:02 INFO - getting Most repeated word
+2021-09-08 12:40:02 INFO - Getting palidromic words
+2021-09-08 12:40:02 INFO - writing data to uniquefile after required operation
+2021-09-08 12:41:51 INFO - Started execution
+2021-09-08 12:41:51 INFO - Initialised values
+2021-09-08 12:41:51 INFO - Trying to open and read file
+2021-09-08 12:41:51 INFO - Trying to open and read file
+2021-09-08 12:41:51 INFO - getting words with prefix to 
+2021-09-08 12:41:51 INFO - getting words with postfix ing
+2021-09-08 12:41:51 INFO - getting Most repeated word
+2021-09-08 12:41:51 INFO - Getting palidromic words
+2021-09-08 12:42:55 INFO - Started execution
+2021-09-08 12:42:55 INFO - Initialised values
+2021-09-08 12:42:55 INFO - Trying to open and read file
+2021-09-08 12:42:55 INFO - Trying to open and read file
+2021-09-08 12:42:55 INFO - getting words with prefix to 
+2021-09-08 12:42:55 INFO - getting words with postfix ing
+2021-09-08 12:42:55 INFO - getting Most repeated word
+2021-09-08 12:42:55 INFO - Getting palidromic words
+2021-09-08 12:42:55 INFO - writing data to uniquefile after required operation
+2021-09-08 12:43:20 INFO - Started execution
+2021-09-08 12:43:20 INFO - Initialised values
+2021-09-08 12:43:46 INFO - Started execution
+2021-09-08 12:43:46 INFO - Initialised values
+2021-09-08 12:43:46 INFO - Trying to open and read file
+2021-09-08 12:43:46 INFO - getting words with prefix to 
+2021-09-08 12:43:46 INFO - getting words with postfix ing
+2021-09-08 12:43:46 INFO - getting Most repeated word
+2021-09-08 12:43:46 INFO - Getting palidromic words
+2021-09-08 12:43:46 INFO - writing data to uniquefile after required operation
+2021-09-08 12:44:13 INFO - Started execution
+2021-09-08 12:44:13 INFO - Initialised values
+2021-09-08 12:44:13 INFO - Trying to open and read file
+2021-09-08 12:44:13 INFO - getting words with prefix to 
+2021-09-08 12:44:13 INFO - getting words with postfix ing
+2021-09-08 12:44:13 INFO - getting Most repeated word
+2021-09-08 12:44:13 INFO - Getting palidromic words
+2021-09-08 12:44:13 INFO - writing data to uniquefile after required operation
+2021-09-08 12:44:36 INFO - Started execution
+2021-09-08 12:44:36 INFO - Initialised values
+2021-09-08 12:44:36 INFO - Trying to open and read file
+2021-09-08 12:44:36 INFO - getting words with prefix to 
+2021-09-08 12:44:36 INFO - getting words with postfix ing
+2021-09-08 12:44:36 INFO - getting Most repeated word
+2021-09-08 12:44:36 INFO - Getting palidromic words
+2021-09-08 12:44:36 INFO - writing data to uniquefile after required operation
+2021-09-08 12:47:28 INFO - Started execution
+2021-09-08 12:47:28 INFO - Initialised values
+2021-09-08 12:47:28 INFO - Trying to open and read file
+2021-09-08 12:47:28 INFO - getting words with prefix to 
+2021-09-08 12:47:51 INFO - Started execution
+2021-09-08 12:47:51 INFO - Initialised values
+2021-09-08 12:47:51 INFO - Trying to open and read file
+2021-09-08 12:47:51 INFO - getting words with prefix to 
+2021-09-08 12:47:51 INFO - getting words with postfix ing
+2021-09-08 12:47:51 INFO - getting Most repeated word
+2021-09-08 12:47:51 INFO - Getting palidromic words
+2021-09-08 12:47:51 INFO - writing data to uniquefile after required operation
+2021-09-08 12:54:53 INFO - Started execution
+2021-09-08 12:54:53 INFO - Initialised values
+2021-09-08 12:54:53 INFO - Trying to open and read file
+2021-09-08 12:54:53 INFO - Trying to open and read file
+2021-09-08 12:54:53 INFO - getting words with prefix to 
+2021-09-08 12:54:53 INFO - getting words with postfix ing
+2021-09-08 12:54:53 INFO - getting Most repeated word
+2021-09-08 12:54:53 INFO - Getting palidromic words
+2021-09-08 12:54:53 INFO - writing data to uniquefile after required operation
+2021-09-08 12:55:53 INFO - Started execution
+2021-09-08 12:55:53 INFO - Initialised values
+2021-09-08 12:55:53 INFO - Trying to open and read file
+2021-09-08 12:55:53 INFO - getting words with prefix to 
+2021-09-08 12:55:53 INFO - getting words with postfix ing
+2021-09-08 12:55:53 INFO - getting Most repeated word
+2021-09-08 12:55:53 INFO - Getting palidromic words
+2021-09-08 12:55:53 INFO - writing data to uniquefile after required operation
+2021-09-08 12:56:50 INFO - Started execution
+2021-09-08 12:56:50 INFO - Initialised values
+2021-09-08 12:56:50 INFO - Trying to open and read file
+2021-09-08 12:56:50 INFO - getting words with prefix to 
+2021-09-08 12:56:50 INFO - getting words with postfix ing
+2021-09-08 12:56:50 INFO - getting Most repeated word
+2021-09-08 12:56:50 INFO - Getting palidromic words
+2021-09-08 12:56:50 INFO - writing data to uniquefile after required operation
+2021-09-08 12:59:34 INFO - Started execution
+2021-09-08 12:59:34 INFO - Initialised values
+2021-09-08 12:59:34 INFO - Trying to open and read file
+2021-09-08 12:59:34 INFO - getting words with prefix to 
+2021-09-08 12:59:34 INFO - getting words with postfix ing
+2021-09-08 12:59:34 INFO - getting Most repeated word
+2021-09-08 12:59:34 INFO - Getting palidromic words
+2021-09-08 12:59:34 INFO - writing data to uniquefile after required operation
+2021-09-08 13:01:35 INFO - Started execution
+2021-09-08 13:01:35 INFO - Initialised values
+2021-09-08 13:01:35 INFO - Trying to open and read file
+2021-09-08 13:01:35 INFO - getting words with prefix to 
+2021-09-08 13:01:35 INFO - getting words with postfix ing
+2021-09-08 13:01:35 INFO - getting Most repeated word
+2021-09-08 13:01:35 INFO - Getting palidromic words
+2021-09-08 13:01:35 INFO - writing data to uniquefile after required operation
+2021-09-08 13:04:03 INFO - Started execution
+2021-09-08 13:04:03 INFO - Initialised values
+2021-09-08 13:04:03 INFO - Trying to open and read file
+2021-09-08 13:04:03 INFO - getting words with prefix to 
+2021-09-08 13:04:03 INFO - getting words with postfix ing
+2021-09-08 13:04:03 INFO - getting Most repeated word
+2021-09-08 13:04:03 INFO - Getting palidromic words
+2021-09-08 13:04:03 INFO - writing data to uniquefile after required operation
+2021-09-08 13:07:59 INFO - Started execution
+2021-09-08 13:07:59 INFO - Initialised values
+2021-09-08 13:07:59 INFO - Trying to open and read file
+2021-09-08 13:07:59 INFO - getting words with prefix to 
+2021-09-08 13:07:59 INFO - getting words with postfix ing
+2021-09-08 13:07:59 INFO - getting Most repeated word
+2021-09-08 13:07:59 INFO - Getting palidromic words
+2021-09-08 13:07:59 INFO - writing data to uniquefile after required operation
+2021-09-08 13:08:51 INFO - Started execution
+2021-09-08 13:08:51 INFO - Initialised values
+2021-09-08 13:08:51 INFO - Trying to open and read file
+2021-09-08 13:08:51 INFO - getting words with prefix to 
+2021-09-08 13:08:51 INFO - getting words with postfix ing
+2021-09-08 13:08:51 INFO - getting Most repeated word
+2021-09-08 13:08:51 INFO - Getting palidromic words
+2021-09-08 13:08:51 INFO - writing data to uniquefile after required operation
+2021-09-08 14:30:31 INFO - Started execution
+2021-09-08 14:30:31 INFO - Initialised values
+2021-09-08 14:30:31 INFO - Trying to open and read file
+2021-09-08 14:30:31 INFO - getting words with prefix to 
+2021-09-08 14:30:31 INFO - getting words with postfix ing
+2021-09-08 14:30:31 INFO - getting Most repeated word
+2021-09-08 14:30:31 INFO - Getting palidromic words
+2021-09-08 14:30:31 INFO - writing data to uniquefile after required operation
+2021-09-08 15:20:57 INFO - Started execution
+2021-09-08 15:20:57 INFO - Initialised values
+2021-09-08 15:20:57 INFO - Trying to open and read file
+2021-09-08 15:20:57 INFO - getting words with prefix to 
+2021-09-08 15:20:57 INFO - getting words with postfix ing
+2021-09-08 15:20:57 INFO - getting Most repeated word
+2021-09-08 15:20:57 INFO - Getting palidromic words
+2021-09-08 15:20:57 INFO - writing data to uniquefile after required operation
+2021-09-08 15:21:25 INFO - Started execution
+2021-09-08 15:21:25 INFO - Initialised values
+2021-09-08 15:21:25 INFO - Trying to open and read file
+2021-09-08 15:21:25 INFO - getting words with prefix to 
+2021-09-08 15:21:25 INFO - getting words with postfix ing
+2021-09-08 15:21:25 INFO - getting Most repeated word
+2021-09-08 15:21:25 INFO - Getting palidromic words
+2021-09-08 15:21:25 INFO - writing data to uniquefile after required operation
+2021-09-08 15:32:14 INFO - Started execution
+2021-09-08 15:32:14 INFO - Initialised values
+2021-09-08 15:32:14 INFO - Trying to open and read file
+2021-09-08 15:32:14 INFO - getting words with prefix to 
+2021-09-08 15:32:14 INFO - getting words with postfix ing
+2021-09-08 15:32:14 INFO - getting Most repeated word
+2021-09-08 15:32:14 INFO - Getting palidromic words
+2021-09-08 15:32:14 INFO - writing data to uniquefile after required operation
+2021-09-08 15:50:42 INFO - Started execution
+2021-09-08 15:50:42 INFO - Initialised values
+2021-09-08 15:50:42 INFO - Trying to open and read file
+2021-09-08 15:50:42 INFO - getting words with prefix to 
+2021-09-08 15:50:42 INFO - getting words with postfix ing
+2021-09-08 15:50:42 INFO - getting Most repeated word
+2021-09-08 15:50:42 INFO - Getting palidromic words
+2021-09-08 15:50:42 INFO - writing data to uniquefile after required operation
+2021-09-08 17:27:28 INFO - Started execution
+2021-09-08 17:27:28 INFO - Initialised values
+2021-09-08 17:27:28 INFO - Trying to open and read file
+2021-09-08 17:27:28 INFO - getting words with prefix to 
+2021-09-08 17:27:28 INFO - getting words with postfix ing
+2021-09-08 17:27:28 INFO - getting Most repeated word
+2021-09-08 17:27:28 INFO - Getting palidromic words
+2021-09-08 17:27:28 INFO - writing data to uniquefile after required operation
+2021-09-08 17:29:24 INFO - Started execution
+2021-09-08 17:29:24 INFO - Initialised values
+2021-09-08 17:29:24 INFO - Trying to open and read file
+2021-09-08 17:29:24 INFO - getting words with prefix to 
+2021-09-08 17:29:24 INFO - getting words with postfix ing
+2021-09-08 17:29:24 INFO - getting Most repeated word
+2021-09-08 17:29:49 INFO - Started execution
+2021-09-08 17:29:49 INFO - Initialised values
+2021-09-08 17:29:49 INFO - Trying to open and read file
+2021-09-08 17:29:49 INFO - getting words with prefix to 
+2021-09-08 17:29:49 INFO - getting words with postfix ing
+2021-09-08 17:29:49 INFO - getting Most repeated word
+2021-09-08 17:29:49 INFO - Getting palidromic words
+2021-09-08 17:29:49 INFO - writing data to uniquefile after required operation
+2021-09-08 17:38:50 INFO - Started execution
+2021-09-08 17:38:50 INFO - Initialised values
+2021-09-08 17:38:50 INFO - Trying to open and read file
+2021-09-08 17:38:50 INFO - getting words with prefix to 
+2021-09-08 17:38:50 INFO - getting words with postfix ing
+2021-09-08 17:38:50 INFO - getting Most repeated word
+2021-09-08 17:38:50 INFO - Getting palidromic words
+2021-09-08 17:38:50 INFO - writing data to uniquefile after required operation
+2021-09-08 17:42:01 INFO - Started execution
+2021-09-08 17:42:01 INFO - Initialised values
+2021-09-08 17:42:01 INFO - Trying to open and read file
+2021-09-08 17:42:01 INFO - getting words with prefix to 
+2021-09-08 17:42:01 INFO - getting words with postfix ing
+2021-09-08 17:42:01 INFO - getting Most repeated word
+2021-09-08 17:42:01 INFO - Getting palidromic words
+2021-09-08 17:42:18 INFO - Started execution
+2021-09-08 17:42:18 INFO - Initialised values
+2021-09-08 17:42:18 INFO - Trying to open and read file
+2021-09-08 17:42:18 INFO - getting words with prefix to 
+2021-09-08 17:42:18 INFO - getting words with postfix ing
+2021-09-08 17:42:18 INFO - getting Most repeated word
+2021-09-08 17:42:18 INFO - Getting palidromic words
+2021-09-08 17:44:00 INFO - Started execution
+2021-09-08 17:44:00 INFO - Initialised values
+2021-09-08 17:44:00 INFO - Trying to open and read file
+2021-09-08 17:44:00 INFO - getting words with prefix to 
+2021-09-08 17:44:00 INFO - getting words with postfix ing
+2021-09-08 17:44:00 INFO - getting Most repeated word
+2021-09-08 17:44:00 INFO - Getting palidromic words
+2021-09-08 17:49:26 INFO - Started execution
+2021-09-08 17:49:26 INFO - Initialised values
+2021-09-08 17:49:26 INFO - Trying to open and read file
+2021-09-08 17:49:26 INFO - getting words with prefix to 
+2021-09-08 17:49:26 INFO - getting words with postfix ing
+2021-09-08 17:49:26 INFO - getting Most repeated word
+2021-09-08 17:49:26 INFO - Getting palidromic words
+2021-09-08 17:50:55 INFO - Started execution
+2021-09-08 17:50:55 INFO - Initialised values
+2021-09-08 17:50:55 INFO - Trying to open and read file
+2021-09-08 17:50:55 INFO - getting words with prefix to 
+2021-09-08 17:50:55 INFO - getting words with postfix ing
+2021-09-08 17:50:55 INFO - getting Most repeated word
+2021-09-08 17:50:55 INFO - Getting palidromic words
+2021-09-08 17:51:05 INFO - Started execution
+2021-09-08 17:51:05 INFO - Initialised values
+2021-09-08 17:51:05 INFO - Trying to open and read file
+2021-09-08 17:51:05 INFO - getting words with prefix to 
+2021-09-08 17:51:05 INFO - getting words with postfix ing
+2021-09-08 17:51:05 INFO - getting Most repeated word
+2021-09-08 17:51:05 INFO - Getting palidromic words
+2021-09-08 17:51:05 INFO - writing data to uniquefile after required operation
+2021-09-09 12:37:17 INFO - Started execution
+2021-09-09 12:37:17 INFO - Initialised values
+2021-09-09 12:37:17 INFO - Trying to open and read file
+2021-09-09 12:37:17 INFO - getting words with prefix to 
+2021-09-09 12:37:17 INFO - getting words with postfix ing
+2021-09-09 12:37:17 INFO - getting Most repeated word
+2021-09-09 12:37:17 INFO - Getting palidromic words
+2021-09-09 12:37:17 INFO - writing data to uniquefile after required operation
+2021-09-09 12:37:20 INFO - Started execution
+2021-09-09 12:37:20 INFO - Initialised values
+2021-09-09 12:37:20 INFO - Trying to open and read file
+2021-09-09 12:37:20 INFO - getting words with prefix to 
+2021-09-09 12:37:20 INFO - getting words with postfix ing
+2021-09-09 12:37:20 INFO - getting Most repeated word
+2021-09-09 12:37:20 INFO - Getting palidromic words
+2021-09-09 12:37:20 INFO - writing data to uniquefile after required operation
