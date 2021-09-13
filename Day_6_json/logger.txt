@@ -1,0 +1,80 @@
+2021-09-13 11:55:16 INFO - Started execution
+2021-09-13 11:55:16 INFO - Connected to database
+2021-09-13 11:59:36 INFO - Started execution
+2021-09-13 11:59:36 INFO - Connected to database
+2021-09-13 12:00:49 INFO - pushed request data to request table
+2021-09-13 12:00:49 INFO - Pushed response data to response table
+2021-09-13 12:00:49 INFO - Converted response to JSON format
+2021-09-13 17:40:58 INFO - Started execution
+2021-09-13 17:40:58 INFO - Connected to database
+2021-09-13 17:41:58 INFO - pushed request data to request table sucessfuly
+2021-09-13 17:41:58 INFO - Pushed response data to response table sucessfully
+2021-09-13 17:41:58 INFO - Converted response to JSON format and store it in textfile
+2021-09-13 17:42:38 INFO - Started execution
+2021-09-13 17:42:39 INFO - Connected to database
+2021-09-13 17:43:32 INFO - pushed request data to request table sucessfuly
+2021-09-13 17:43:32 INFO - Pushed response data to response table sucessfully
+2021-09-13 17:44:01 INFO - Started execution
+2021-09-13 17:44:01 INFO - Connected to database
+2021-09-13 17:44:13 INFO - Started execution
+2021-09-13 17:44:13 INFO - Connected to database
+2021-09-13 17:44:51 INFO - pushed request data to request table sucessfuly
+2021-09-13 17:44:51 INFO - Pushed response data to response table sucessfully
+2021-09-13 17:44:51 INFO - Converted response to JSON format and store it in textfile
+2021-09-13 17:48:36 INFO - Started execution
+2021-09-13 17:48:36 INFO - Connected to database
+2021-09-13 17:49:28 INFO - pushed request data to request table sucessfuly
+2021-09-13 17:49:28 INFO - Pushed response data to response table sucessfully
+2021-09-13 17:49:28 INFO - Converted response to JSON format and store it in textfile
+2021-09-13 17:50:58 INFO - Started execution
+2021-09-13 17:50:58 INFO - Connected to database
+2021-09-13 17:51:56 INFO - pushed request data to request table sucessfuly
+2021-09-13 17:51:56 INFO - Pushed response data to response table sucessfully
+2021-09-13 17:51:56 INFO - Converted response to JSON format and store it in textfile
+2021-09-13 17:54:21 INFO - Started execution
+2021-09-13 17:54:22 INFO - Connected to database
+2021-09-13 17:55:23 INFO - pushed request data to request table sucessfuly
+2021-09-13 17:55:23 INFO - Pushed response data to response table sucessfully
+2021-09-13 17:55:23 INFO - Converted response to JSON format and store it in textfile
+2021-09-13 17:58:00 INFO - Started execution
+2021-09-13 17:58:00 INFO - Connected to database
+2021-09-13 18:05:51 INFO - Started execution
+2021-09-13 18:05:51 INFO - Connected to database
+2021-09-13 18:05:57 INFO - validated firstname
+2021-09-13 18:05:59 INFO - validated middlename
+2021-09-13 18:06:02 INFO - validated lastname
+2021-09-13 18:06:07 INFO - validated dateofbirth format
+2021-09-13 18:06:10 INFO - validated gender
+2021-09-13 18:06:10 INFO - validated age_gender
+2021-09-13 18:06:14 INFO - validated Nationality
+2021-09-13 18:06:17 INFO - validated city
+2021-09-13 18:06:22 INFO - validated firstname
+2021-09-13 18:06:30 INFO - validated pinode
+2021-09-13 18:06:33 INFO - validated qualification
+2021-09-13 18:06:37 INFO - validated salary
+2021-09-13 18:06:43 INFO - validated pan
+2021-09-13 18:06:43 INFO - validated recent days users pin
+2021-09-13 18:06:43 INFO - checked success or failure for eligibility
+2021-09-13 18:06:43 INFO - pushed request data to request table sucessfuly
+2021-09-13 18:06:43 INFO - Pushed response data to response table sucessfully
+2021-09-13 18:06:43 INFO - Converted response to JSON format and store it in textfile
+2021-09-13 18:24:13 INFO - Started execution
+2021-09-13 18:24:13 INFO - Connected to database
+2021-09-13 18:24:17 INFO - validated firstname
+2021-09-13 18:24:21 INFO - validated middlename
+2021-09-13 18:24:29 INFO - validated lastname
+2021-09-13 18:24:40 INFO - validated dateofbirth format
+2021-09-13 18:24:43 INFO - validated gender
+2021-09-13 18:24:43 INFO - validated age_gender
+2021-09-13 18:24:47 INFO - validated Nationality
+2021-09-13 18:24:57 INFO - validated city
+2021-09-13 18:25:02 INFO - validated firstname
+2021-09-13 18:25:08 INFO - validated pinode
+2021-09-13 18:25:17 INFO - validated qualification
+2021-09-13 18:25:22 INFO - validated salary
+2021-09-13 18:25:31 INFO - validated pan
+2021-09-13 18:25:31 INFO - validated recent days users pin
+2021-09-13 18:25:31 INFO - checked success or failure for eligibility
+2021-09-13 18:25:31 INFO - pushed request data to request table sucessfuly
+2021-09-13 18:25:31 INFO - Pushed response data to response table sucessfully
+2021-09-13 18:25:31 INFO - Converted response to JSON format and store it in textfile
